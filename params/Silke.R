@@ -10,7 +10,7 @@ sig2 <- 3.5
 species.name <- "Silke"
     
 # e.g. "red"    
-color <- #311DB3
+color <- "#311DB3"
     
 # tip: pick a color using rstudio colour picker. 
 # Addins > Colour Picker (to install: install.packages("colourpicker"))
